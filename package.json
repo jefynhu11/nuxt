@@ -1,0 +1,15 @@
+{
+  "name": "nuxt",
+  "version": "1.0.0",
+  "description": "Aprendendo nova linguagem\r ----------------------------------\r ## Instala Visual Studio Code (VSC) no extensão",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
